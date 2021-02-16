@@ -1,2 +1,3 @@
-# web-curriculum-v3
-3rd Revision of Devmountain Web Program Curriculum
+# web-curriculum-v4
+4th Revision of Devmountain Web Program Curriculum
+These notes and links can also be found in Canvas
