@@ -106,7 +106,7 @@ Arrays are zero indexed, meaning that the first index, or location, inside of an
 var numArr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
-> In this example `numArr[0]` is equal to 1 because 1 is the first item in the array. `numArr[5]` is equal to 4 because 4 is the 5th index on the array.
+> In this example `numArr[0]` is equal to 1 because 1 is the first item in the array. `numArr[5]` is equal to 6 because 6 is the 5th index on the array.
 >
 > This can be a confusing idea at first, but you will have plenty of practice accessing items in arrays.
 
